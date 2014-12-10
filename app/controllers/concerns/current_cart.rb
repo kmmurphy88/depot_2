@@ -1,5 +1,5 @@
 module CurrentCart
-  entend ActiveSupport::Concern
+  extend ActiveSupport::Concern
 
   private
 
